@@ -17,8 +17,6 @@ Short, 10-15 minutes videos explaining a technology, a feature, a function with 
 
 [Performance Analytics](/en-us/tech-zone/learn/tech-insights/performance-analytics.html) - Gain visibility into your environment through user-centric experience scores, application & infrastructure performance scores with Performance Analytics.
 
-[Security Analytics](/en-us/tech-zone/learn/tech-insights/security-analytics.html) - Generate actionable insights about your environment, enabling administrators to proactively handle user and application security threats.
-
 ## Identity
 
 [Authentication - Citrix Gateway](/en-us/tech-zone/learn/tech-insights/gateway-idp.html) - Utilize an on-premises Citrix Gateway as an identity provider for Citrix Workspace.
@@ -40,6 +38,8 @@ Short, 10-15 minutes videos explaining a technology, a feature, a function with 
 ## Networking
 
 [Intelligent Traffic Management - Radar](/en-us/tech-zone/learn/tech-insights/itm.html) - Learn how Citrix ITM can direct users to cloud service mirror sites with the most bandwidth available between them.
+
+[Office 365 Optimization](/en-us/tech-zone/learn/tech-insights/office365-optimization.html) - Learn how Citrix SD-WAN implements Microsoft Connectivity Principles to support Office 365 Optimization for Branch Offices.
 
 [SD-WAN](/en-us/tech-zone/learn/tech-insights/sdwan.html) - Optimize delivery of Citrix Virtual Apps and Desktops traffic with Citrix SD-WAN.
 

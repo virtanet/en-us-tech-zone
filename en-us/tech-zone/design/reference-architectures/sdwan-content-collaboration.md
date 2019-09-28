@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# Citrix SD-WAN WANOP for Content Collaboration (Customer-Managed on-premises Storage Zones)
+# Reference Architecture on Citrix SD-WAN WANOP for Content Collaboration (Customer Managed on-premises Storage Zones)
 
 ## Contributors
 
@@ -16,7 +16,7 @@ This document is intended for IT decision-makers, consultants, solution integrat
 
 ## Objective of this document
 
-The purpose of this document is to describe the Citrix SD-WAN WANOP reference architecture for Citrix Content Collaboration and the significance of integrating the Citrix SD-WAN WANOP solution with Customer-Managed (on-premises) Storage Zones. Also, it helps to understand how the WANOP solution addresses the file transfer operation issues pertaining to high latency, packet loss, and jitter due to long distances between the data center and branch offices.
+The purpose of this document is to describe the Citrix SD-WAN WANOP reference architecture for Citrix Content Collaboration and the significance of integrating the Citrix SD-WAN WANOP solution with Customer Managed (on-premises) Storage Zones. Also, it helps to understand how the WANOP solution addresses the file transfer operation issues pertaining to high latency, packet loss, and jitter due to long distances between the data center and branch offices.
 
 ## Overview of Citrix Content Collaboration
 
@@ -142,7 +142,7 @@ The appliance can be placed in-line with the WAN links. The appliance uses two b
 
 ![SDWAN-CC-RA-Image-4](/en-us/tech-zone/design/media/reference-architectures_sdwan-content-collaboration_004.png)
 
-The above diagram depicts the SDWAN WANOP Integration with Customer-Managed Storage Zone Controllers for a Content Collaboration environment. Let’s review the features of SD-WAN WANOP and its benefits with this deployment.
+The above diagram depicts the SDWAN WANOP Integration with Customer Managed Storage Zone Controllers for a Content Collaboration environment. Let’s review the features of SD-WAN WANOP and its benefits with this deployment.
 
 The following WANOP features that help optimize the file transfer for Content Collaboration:
 
@@ -248,7 +248,7 @@ With Citrix SD-WAN WANOP enabled, results show that there is a significant reduc
 
 ![SDWAN-CC-RA-Image-10](/en-us/tech-zone/design/media/reference-architectures_sdwan-content-collaboration_010.png)
 
-## Overall Paybacks from Citrix SD-WAN WANOP
+## Over-all Paybacks from Citrix SD-WAN WANOP
 
 There was a significant advantage, sometimes dramatic, reduction in user wait time for common file transfer operations. It reduced the load on Storage Zone Controllers hence improved scalability.
 
@@ -258,11 +258,11 @@ Citrix SD-WAN WANOP maximizes existing investments in on-premises infrastructure
 
 ## Sources
 
-Goal of this reference architecture is to assist you with planning your own implementation. To make this job easier, we would like to provide you with source diagrams that you can adapt in your own detailed designs and implementation guides: [source diagrams](https://citrix.sharefile.com/d-s10adc31c5d146148).
+Goal of this reference architecture is to assist you with planning your own implementation. To make this job easier, we would like to provide you with source diagrams that you can adapt in your own detailed designs and implementation guides: [source diagrams](https://citrix.sharefile.com/todo).
 
 ## References
 
-[Reference Architecture on Customer-Managed Storage Zone](https://docs.citrix.com/en-us/tech-zone/design/reference-architectures/customer-storage-zones-on-premises.html)
+[Reference Architecture on Customer Managed Storage Zone](https://docs.citrix.com/en-us/tech-zone/design/reference-architectures/customer-storage-zones-on-premises.html)
 
 [Storage Zone Controller Architecture](https://docs.citrix.com/en-us/storage-zones-controller/5-0/architecture-overview.html)
 
