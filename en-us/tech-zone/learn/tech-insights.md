@@ -17,8 +17,6 @@ Short, 10-15 minutes videos explaining a technology, a feature, a function with 
 
 [Performance Analytics](/en-us/tech-zone/learn/tech-insights/performance-analytics.html) - Gain visibility into your environment through user-centric experience scores, application & infrastructure performance scores with Performance Analytics.
 
-[Security Analytics](/en-us/tech-zone/learn/tech-insights/security-analytics.html) - Generate actionable insights about your environment, enabling administrators to proactively handle user and application security threats.
-
 ## Identity
 
 [Authentication - Citrix Gateway](/en-us/tech-zone/learn/tech-insights/gateway-idp.html) - Utilize an on-premises Citrix Gateway as an identity provider for Citrix Workspace.
@@ -35,15 +33,11 @@ Short, 10-15 minutes videos explaining a technology, a feature, a function with 
 
 [Micro VPN](/en-us/tech-zone/learn/tech-insights/micro-vpn.html) - On-demand, per-app VPN that gives access to a specific app back end resource without the risk of opening a full tunnel to your data center.
 
-[Mobile SSO](/en-us/tech-zone/learn/tech-insights/mobile-sso.html) - Single sign-on to native mobile applications via Citrix Gateway.
-
 ## Networking
 
 [Intelligent Traffic Management - Radar](/en-us/tech-zone/learn/tech-insights/itm.html) - Learn how Citrix ITM can direct users to cloud service mirror sites with the most bandwidth available between them.
 
 [SD-WAN](/en-us/tech-zone/learn/tech-insights/sdwan.html) - Optimize delivery of Citrix Virtual Apps and Desktops traffic with Citrix SD-WAN.
-
-[YouTube Optimization for Branch Offices](/en-us/tech-zone/learn/tech-insights/youtube-optimizations.html) - Optimize YouTube delivery in branch offices with Citrix Virtual Apps and Desktops and Citrix SD-WAN.
 
 ## Virtual Apps and Desktops
 

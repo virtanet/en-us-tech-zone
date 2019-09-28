@@ -27,13 +27,13 @@ Citrix Security Analytics collects data across Citrix and third-party products a
 -  Microsoft Graph Security
 -  Microsoft Active Directory (on-prem)
 
-Security analytics detects anomalous user behavior through its machine learning μ-service. It assigns users a risk score, a value that indicates the aggregate level of risk a user poses through its risk scoring μ-service. This is a dynamic value that is based on User Behavior Analytics (UBA). Administrators have the ability to create policies to automate processes and apply actions based on risk indicators. Security Analytics retains data for 13 months. If the administrator turns off data processing for a specific data source, the data that was already captured remains stored for 13 months.
+Security analytics detects anomalous user behavior through its machine learning μ-service. It assigns users a risk score, a value that indicates the aggregate level of risk a user poses through its risk scoring μ-service. This is a dynamic value that is based on User Behavior Analytics (UBA). Administrators have the ability to create policies to automate processes and apply actions based on risk indicators. Security Analytics retains data for 13 months. If the administrator turns off data processing for a specific data source, the data that was already captured will remained stored for 13 months.
 
 Security Analytics receives the information in the following manner. For Citrix Access Control service, Citrix Content Collaboration, Citrix Endpoint Management, and Citrix Gateway Service (cloud) it receives its information directly from the control plane of the specific data source. For Citrix Gateway on-prem, it receives the data from the Application Delivery Management agent. For Citrix Virtual Apps and Desktop (cloud & on-prem) it receives its information through Citrix Workspace app. To get active directory data, Citrix Analytics communicates with the Cloud connectors. For Microsoft Graph security, we can get information from Azure AD identity protection and Windows Defender ATP through graph APIs.
 
 ## Performance Analytics
 
-Performance Analytics quantifies user experience and gives customers end-to-end visibility on what the root cause for end user experience is. It also provides multi-site aggregation and reporting so customers who have multiple sites can consume data from a single pane of glass instead of having to log into multiple Director consoles. Finally, it provides infrastructure performance score to give administrators a cohesive view of their infrastructure health.
+Performance Analytics quantifies user experience and gives customers end-to-end visibility on what the root cause for end user experience is. Additionally, it provides multi-site aggregation and reporting so customers who have multiple sites can consume data from a single pane of glass instead of having to log into multiple Director consoles. Finally, it provides infrastructure performance score to give administrators a cohesive view of their infrastructure health.
 
 The user experience score is calculated by considering different factors affecting the end user experience such as: latency, logon duration, failures, and reconnections. Administrators are then able to divide deeper and look at subfactors to be able to determine the exact root cause of the problem. For example, sub factors for logon duration include: GPOs, Profile Load, Interactive Session, Brokering, VM Start, HDX Connection, Authentication, and Logon Scripts.
 
@@ -47,4 +47,4 @@ Operations Analytics provides an overview of the total number of domains that ha
 
 Below you can find the conceptual architecture and process flow of Citrix Analytics.
 
-[![Analytics Process Flow](/en-us/tech-zone/learn/media/tech-briefs_analytics_process-flow.png)](/en-us/tech-zone/learn/media/tech-briefs_analytics_process-flow.png)
+![Analytics Process Flow](/en-us/tech-zone/learn/media/tech-briefs_analytics_process-flow.png)
