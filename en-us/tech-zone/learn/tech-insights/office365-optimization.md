@@ -9,7 +9,7 @@ layout: doc
 
 **Special Thanks:** [Ravisankar Pegada]
 
-Learn how Citrix SD-WAN can direct Microsoft Office 365 traffic from Enterprise branch offices directly to the nearest Internet POP providing optimal user experience
+Learn how Citrix SD-WAN can direct Microsoft Office 365 traffic from Enterprise branch offices directly to the nearest Internet POP providing optimal user experience.
 
 **Watch this video to [learn more](https://youtu.be/DIxVnMM8AOw):**
 
